@@ -1,0 +1,1 @@
+C:\ZX\CSpect2_16_5\CSpect.exe -r  -tv -map=player.sna.map -zxnext -s28 -mmc=.\ player.sna
